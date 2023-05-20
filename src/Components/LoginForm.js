@@ -3,7 +3,7 @@ import React from 'react';
 const LoginForm = () => {
   return (
     <div className="login-form-container">
-      <h2>Inicio de</h2>
+      <h2>Inicio de secion</h2>
       <form>
         <div className="form-group">
           <label htmlFor="email" className="lexend">Email:</label>
